@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azka Raki</h1>
 <h3 align="center">In progress to become a frontend developer</h3>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently studying **Computer Science**
 
 - ⚡ Fun fact **playing chess is my hobby**
 
