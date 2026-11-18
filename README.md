@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Halo, Saya Azka 👋<br><br>Saya seorang Mahasiswa Ilmu Komputer & Software Developer yang bersemangat untuk belajar dan berkembang<br><br>---<br><br>* 🔭 **Saya sedang mengerjakan:** Web App pusat informasi beasiswa & aplikasi POS mobile sebagai tugas kuliah<br>* 🌱 **Saya sedang mempelajari:** Go (Golang) dan Arsitektur Microservices<br>* 💬 **Tanyakan saya tentang:** React, Nuxt, dan REST API<br>* ⚡ **Fakta menarik:** Saya percaya bahwa *bug* adalah fitur yang belum didokumentasikan.
+### Halo, saya Azka 👋<br><br>Saya seorang Mahasiswa Ilmu Komputer & Software Developer yang bersemangat untuk belajar dan berkembang<br><br>---<br><br> 🔭 **Saya sedang mengerjakan:** Web App pusat informasi beasiswa & aplikasi POS mobile sebagai tugas kuliah<br> 🌱 **Saya sedang mempelajari:** Go (Golang) dan Arsitektur Microservices<br> 💬 **Tanyakan saya tentang:** React, Nuxt, dan REST API<br> ⚡ **Fakta menarik:** Saya percaya bahwa *bug* adalah fitur yang belum didokumentasikan.
 
 
 ## 🌐 Socials:
